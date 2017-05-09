@@ -1,0 +1,14 @@
+.div-center{
+	margin:0 auto;
+}
+.clearfix:after{
+	content:"";
+	display:block;
+	clear:both;
+}
+.no-border{
+	border:none;
+}
+.xddw{
+	position:relative;
+}

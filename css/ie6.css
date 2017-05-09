@@ -1,0 +1,220 @@
+body{
+		<img src="img/gif.gif" alt="" />
+		<img src="img/jpeg.jpg"/>
+		<img src="img/png8.png"/>
+		<img src="img/png24.png"/>
+		<div class="div" style="width: 200px;height:200px;background: url(img/png24.png);"></div>-->
+		background-image: none;
+		filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="img/png24.png", sizingMethod="crop");
+}
+.clearfix{
+	overflow:hidden;
+}
+.title a{
+	display:inline;
+}
+.head-center .ssk{
+	width:389px;
+	display: inline;
+	overflow: hidden;
+}
+.ssk .ssk-kuang{
+	width:340px;
+}
+.ssk .ssan{
+	padding-top:2px;
+	background-color:#a4cbff;
+	overflow: hidden;
+	display: inline-block;
+	zoom:1;
+}
+
+.head-right .head-fengeixian{
+	display: inline;
+}
+.head-right .dianhua{
+	display: inline;
+}
+.dianhua a{
+	display: inline;
+}
+.dianhua a .dianhua-xialatubiao{
+	margin-top:6px;
+}
+.daohang-center li .daohang-name{
+	display: inline;
+}
+.daohang-center li .xiala{
+	/*display: inline;*/
+}
+.denglu-top .denglu-top-denglu{
+	display: inline;
+}
+.denglu-top .denglu-top-fenge{
+	display: inline;
+}
+.dianhua .dianhua-bg{
+	overflow: hidden;
+}
+.daohang-name .daohang-bg{
+	display: inline;
+	overflow: hidden;
+}
+.daohang-name .daohang-type{
+	display: inline;
+}
+.ztc .ztc-title{
+	overflow: hidden;
+}
+.ztc-type .ztc-name{
+	display: inline;
+}
+.biaodan-name label{
+	width:52px;
+	font-size:12px;
+}
+.tmh-head-type .tmh-head-type-a{
+	display: inline;
+}
+.temaihuibufen-center .tmhsbk{
+	overflow: hidden;
+}
+.chufadi span{
+	overflow: hidden;
+}
+.jiudian-body-head-ul .gengduojiudian{
+	display: inline;
+}
+.tjjp-head-ul .tjjp-chufadi{
+	display: inline;
+}
+.mokuai-head-type1 .mokuai-head-name-tb{
+	display: inline;
+}
+.mokuai-content .mokuai-neirong{
+	display: inline;
+}
+.hezuoxinxi-content .hezuo-2f{
+	display:inline;
+}
+.hezuo-2f-daohang .hezuo-2f-daohang-title{
+	display: inline;
+}
+.kuaisurukou .kuaisurukou-title{
+	display: inline;
+}
+.youcecaidan{
+	height:912px;
+	position: absolute;
+	right:0;
+	top:expression(eval(document.documentElement.scrollTop + 0));
+}
+.youcecaidan .xiechengshoujiban{
+	display: inline;
+}
+.youcecaidan .youcecaidan-wodexiecheng{
+	display: inline;
+}
+.youcecaidan .youcecaidan-other1{
+	display: inline;
+}
+.youcecaidan-dibucaidan .yjfk{
+	display: inline;
+}
+.youcecaidan-dibucaidan .zxkf{
+	display: inline;
+}
+.jiudianleixing .fangjianleixing-xiala{
+	display: inline;
+	overflow: hidden;
+	zoom:1;
+}
+.temaihui-head-type .tmh-sanjiao{
+	overflow: hidden;
+	display:inline;
+	zoom:1;
+}
+.haiwaijiudian-head-type .hwjd-sanjiao{
+	overflow: hidden;
+	display:inline;
+	zoom:1;
+}
+.tjjp-head-type span{
+	overflow: hidden;
+	display:inline;
+	zoom:1;
+}
+.mokuai-head-type1 .mokuai-head-name-tb{
+	overflow: hidden;
+	display:inline;
+	zoom:1;
+}
+.zuocecaidan{
+	position: absolute;
+	left:0;
+	top:expression(eval(document.documentElement.scrollTop + 744));
+}
+.gengduotemaihui .gdtmh-bg{
+	overflow: hidden;
+}
+.gengduojiudian a span{
+	overflow: hidden;
+}
+.jiudianleixing .fangjianleixing-xiala{
+	bottom:-9px;
+}
+/*酒店*/
+.jiudian-head-right{
+	width:480px;
+}
+.jiudian-head-right .jiudian-head-right-fenge{
+	display:inline;
+}
+.jiudian-dianhua .jiudian-dianhua-xiala{
+	overflow: hidden;
+}
+.jiudian-head-right .jiudian-title-ad{
+	display: inline;
+	overflow: hidden;
+	zoom:1;
+}
+.daohang-teshu .daohang-teshu-tb{
+	overflow: hidden;
+}
+.jdss-jdlx .jdss-jdlx-type{
+	padding-right:40px;
+	line-height: 20px;
+}
+.dycx .dycu-wz{
+	font-size:12px;
+}
+.diqu-name .diqu-name-tb2{
+	right:3px;
+}
+.quanbudibiao span{
+	overflow: hidden;
+}
+.csdb-type .ico3{
+	display:inline;
+}
+.csdb-type .csdb-type-wz{
+	display:inline;
+}
+.rmjd-diqu-type a .rmjd-diqu-tb2{
+	overflow:hidden;
+}
+.rmjd-name .rmjd-head-tb{
+	overflow: hidden;
+}
+.daohang-center li .daohang-bg{
+	overflow: hidden;
+}
+.jpss-dx .danxuankuang{
+	margin-top:7px;
+}
+.laquyu div label{
+	line-height:39px;
+}
+.hbcx-cxlx1 .hbcx-cxlx-wz{
+	margin-top:8px;
+}
